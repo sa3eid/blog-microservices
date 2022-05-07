@@ -5,8 +5,6 @@
 - `php artisan key:generate`
 - `php artisan composer:install`
 - `php artisan migrate`
-- `php artisan passport:install`
-
 
 ## notes
 
